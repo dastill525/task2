@@ -1,1 +1,0 @@
-grep -c '#include' "$1"

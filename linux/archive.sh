@@ -1,1 +1,0 @@
-zip -r archive.zip ./project -x @./project/.gitignore
