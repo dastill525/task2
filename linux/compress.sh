@@ -1,0 +1,1 @@
+find "$1" -name "*.cpp" | zip -j archive.zip -@
